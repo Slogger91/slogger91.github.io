@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Examples/diagram-examples.md",
+                "file": "docs/Examples/content-tabs.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Examples/diagram-examples.md",
+                "file": "docs/Examples/content-tabs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Examples/diagram-examples.md",
+                "file": "docs/Examples/content-tabs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Examples/diagram-examples.md"
+                "file": "docs/Examples/content-tabs.md"
               }
             }
           }
@@ -148,7 +148,8 @@
   },
   "active": "b2c2dc3bb49e3c16",
   "lastOpenFiles": [
-    "docs/Examples/AddingImages.md",
-    "docs/Guides/WLED.md"
+    "docs/Guides/WLED.md",
+    "docs/Examples/diagram-examples.md",
+    "docs/Examples/AddingImages.md"
   ]
 }
