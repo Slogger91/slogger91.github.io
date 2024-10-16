@@ -13,7 +13,7 @@ This configuration was created because I did not want to pay for Obsidian sync.
 	- I used the windows installer for windows devices.
 2. Share obsidian folder from Syncthing-LXC from PVE1.
 	1. Can find this by going to Heimdall.
-	2. ![[Pasted image 20240418183718.png]]
+	2. ![Image](assets/Pasted%20image%2020240418183718.png)
 3. It will automatically start syncing.
 4. In the meantime, download and install Obsidian.
 5. Once installed, open an existing fault and open into the personal folder
