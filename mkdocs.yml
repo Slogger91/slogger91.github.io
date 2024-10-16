@@ -7,7 +7,22 @@ theme:
    code: Red Hat Mono
   icon:
     logo: fontawesome/solid/computer
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: blue grey
+      accent: deep orange
 
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: deep orange
+      accent: blue
 
   features:
     - navigation.footer
