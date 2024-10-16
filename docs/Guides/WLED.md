@@ -8,7 +8,7 @@ Please follow one of the guides below to configure WLED.
 
     1. Go to the app store and download the WLED app
 	    - [WLED Native on the App Store (apple.com)](https://apps.apple.com/us/app/wled-native/id6446207239)
-
+![Image](assets/WLED-Apple.png)     
 
 === "Android"
 
@@ -18,4 +18,3 @@ Please follow one of the guides below to configure WLED.
 
 
 
-![Image](assets/WLED-Apple.png)
