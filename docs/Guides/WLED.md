@@ -17,3 +17,4 @@ Please follow one of the guides below to configure WLED.
 
 
 
+![WLED-Apple](../Guides/WLED-Apple.png)
