@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Guides/WLED.md",
+                "file": "docs/Guides/Electronics/WLED.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/Guides/WLED.md",
+                "file": "docs/Guides/Electronics/WLED.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/Guides/WLED.md",
+                "file": "docs/Guides/Electronics/WLED.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/Guides/WLED.md"
+                "file": "docs/Guides/Electronics/WLED.md"
               }
             }
           }
@@ -148,12 +148,19 @@
   },
   "active": "b2c2dc3bb49e3c16",
   "lastOpenFiles": [
+    "CNAME",
+    "docs/Examples/AddingImages.md",
+    "docs/Guides/Electronics/WLED-Android.png",
+    "docs/Guides/Electronics/Pasted image 20241017185141.png",
+    "Pasted image 20241017185141.png",
+    "docs/Guides/WLED.md",
+    "docs/Guides/Electronics/WLED-Apple.png",
+    "docs/Guides/Electronics/WLED.md",
+    "docs/Guides/Electronics",
     "docs/Guides/WLED-Apple.png",
     "docs/Examples/Pasted image 20240418183718.png",
     "docs/assets/WLED-Apple.png",
-    "docs/Guides/WLED.md",
     "docs/Examples/WLED-Apple.png",
-    "docs/Examples/AddingImages.md",
     "docs/Examples/admonitions.md",
     "docs/Examples/content-tabs.md",
     "docs/Examples/diagram-examples.md"
